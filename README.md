@@ -19,3 +19,5 @@ Jumper Wires - Circuit connections
 3. If the soil is **too dry**, Arduino triggers the **relay**, which turns ON the **water pump**.
 4. Water is pumped into the soil until the moisture is sufficient(moist>30%) based on the plant required.
 5. The **LCD display** shows whether the soil moisture level(in %) and the status of the pump.
+
+   ![Image](https://github.com/user-attachments/assets/1f71aeee-27e9-45a7-b198-2e1b91591740)
