@@ -21,3 +21,5 @@ Jumper Wires - Circuit connections
 5. The **LCD display** shows whether the soil moisture level(in %) and the status of the pump.
 
    ![Image](https://github.com/user-attachments/assets/1f71aeee-27e9-45a7-b198-2e1b91591740)
+
+   https://github.com/user-attachments/assets/be382368-14d6-45b9-904b-d69a33771761
