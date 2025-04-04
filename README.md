@@ -22,9 +22,10 @@ Jumper Wires - Circuit connections
    
  ## Future Improvements
 
-- Add Wi-Fi module (NodeMCU) for IoT control 🌐  
-- Add mobile app or notification system 📱  
-- Use solar panel for green power ☀️  
+- Add Wi-Fi module (NodeMCU) for IoT control 
+- Add mobile app or notification system 
+- Use solar panel for green power
+- Add Sprinklers for uniform farming field
 
 ## Created By
 
